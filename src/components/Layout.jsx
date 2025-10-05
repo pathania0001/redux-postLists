@@ -17,9 +17,6 @@ export default function Layout() {
         <Outlet />
       </main>
 
-      <footer className="bg-gray-50 border-t text-center text-gray-500 p-4">
-        Built with React • Redux Toolkit • React Router • Tailwind
-      </footer>
     </div>
   )
 }
